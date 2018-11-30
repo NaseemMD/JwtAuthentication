@@ -70,20 +70,20 @@
       <file name="/Dummy.txt" timestamp="1543542015217">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/jwtAuthorizationFilter.java" timestamp="1543555957809">
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="18" />
-        <mark key="." line="38" column="18" />
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/jwtAuthorizationFilter.java" timestamp="1543558817309">
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="49" column="79" />
       </file>
       <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/model/User.java" timestamp="1543529919805">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/model/ApplicationUser.java" timestamp="1543527821126">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/model/ApplicationUser.java" timestamp="1543559261962">
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/DemoApplication.java" timestamp="1543528190434">
         <mark key="[" line="6" column="0" />
@@ -119,10 +119,11 @@
       <file name="/fragment.java" timestamp="1543534644491">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/jwtAuthentiationFilter.java" timestamp="1543555835074">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="31" column="23" />
-        <mark key="." line="31" column="23" />
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/jwtAuthentiationFilter.java" timestamp="1543557932667">
+        <mark key="[" line="56" column="71" />
+        <mark key="]" line="56" column="71" />
+        <mark key="." line="56" column="71" />
+        <mark key="^" line="47" column="8" />
       </file>
       <file name="$USER_HOME$/Downloads/demo-Security/pom.xml" timestamp="1543528134723">
         <mark key="[" line="35" column="0" />
@@ -140,35 +141,35 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
-      </register>
-      <register name="2" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXJzZUNsYWltc0p3cyh0b2tlbi5yZXBsYWNlKFRPS0VOX1BSRUZJWCwiIikpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXNzaW9uTWFuYWdlbWVudCgpLnNlc3Npb25DcmVhdGlvblBvbGljeShTKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXNzaW9uTWFuYWdlbWVudCgpLnNlc3Npb25DcmVhdGlvblBvbGljeShTKQo=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text />
+      <register name="8" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIHNlY3VyaXR5Q29uZmlnIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
