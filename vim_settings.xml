@@ -1,0 +1,180 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/model/AbstratEntity.java" timestamp="1543526073431">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+      </file>
+      <file name="/a.dummy" timestamp="1543522233514">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/security/JwtAuthFilter.java" timestamp="1543534805892">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo/settings.xml" timestamp="1543503243140">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/model/UserDetail.java" timestamp="1543534411552">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/controller/MainController.java" timestamp="1543534225740">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/jwtAuthenticationfilter.java" timestamp="1543522533856" />
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/model/JwtAuthToken.java" timestamp="1543529700351">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/security/JwtGen.java" timestamp="1543532814817">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/SecurityConstants.java" timestamp="1543519925630">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/security/JwtSuccessHandler.java" timestamp="1543533141427">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/security/JwtVal.java" timestamp="1543533846830">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/security/JwtAuthProvider.java" timestamp="1543531739036">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/jwtAuthorizationFilter.java" timestamp="1543512783218">
+        <mark key="[" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/model/User.java" timestamp="1543529919805">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/model/ApplicationUser.java" timestamp="1543527821126">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/DemoApplication.java" timestamp="1543528190434">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/controller/TokenController.java" timestamp="1543534294832">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/AuthorizationFilter.java" timestamp="1543520435138">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/security/JwtAuthenticationEntryPoint.java" timestamp="1543534656371">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/config/JwtConfig.java" timestamp="1543534200293">
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="8" />
+        <mark key="." line="38" column="8" />
+        <mark key="^" line="54" column="59" />
+      </file>
+      <file name="/fragment.java" timestamp="1543534644491">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/jwtAuthentiationFilter.java" timestamp="1543525539712">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/demo-Security/pom.xml" timestamp="1543528134723">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="28" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/securityConfig.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/model/ApplicationUser.java" />
+      <jump line="30" column="76" filename="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/securityConfig.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXNzaW9uTWFuYWdlbWVudCgpLnNlc3Npb25DcmVhdGlvblBvbGljeShTKQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text />
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIHNlY3VyaXR5Q29uZmlnIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGoK</text>
+      </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
