@@ -30,7 +30,6 @@
         <mark key="]" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/jwtAuthenticationfilter.java" timestamp="1543522533856" />
       <file name="$USER_HOME$/Downloads/demo-Security/src/main/java/com/sample/security/demo/model/JwtAuthToken.java" timestamp="1543529700351">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="25" />
@@ -60,6 +59,9 @@
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1543539621980">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/jwtAuthorizationFilter.java" timestamp="1543512783218">
         <mark key="[" line="2" column="36" />
