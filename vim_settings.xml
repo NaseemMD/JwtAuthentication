@@ -23,6 +23,11 @@
       <file name="$USER_HOME$/Downloads/sources/src/main/resources/banner.txt" timestamp="1544104099960">
         <mark key="[" line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/Downloads/naseem-sources/src/main/java/com/naseem/fix_dummy_service/rest/QuoteController.java" timestamp="1544400780620">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/security/securityConfig.java" timestamp="1543555630922">
         <mark key="'" line="31" column="76" />
         <mark key="[" line="36" column="0" />
@@ -73,6 +78,11 @@
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/Downloads/naseem-sources/src/main/java/com/naseem/fix_dummy_service/data/FixQuoteForJson.java" timestamp="1544400856031">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1543542015217">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,7 +96,6 @@
         <mark key="]" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/JwtAuthentication/demo/src/main/java/com/example/jwtexample/demo/security/jwtAuthentiationFilter.java" timestamp="1544204359576" />
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/jwtexample/demo/model/ApplicationUser.java" timestamp="1543559261962">
         <mark key="]" line="15" column="4" />
         <mark key="." line="15" column="4" />
@@ -151,8 +160,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXJzZUNsYWltc0p3cyh0b2tlbi5yZXBsYWNlKFRPS0VOX1BSRUZJWCwiIikpCg==</text>
@@ -179,7 +188,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
